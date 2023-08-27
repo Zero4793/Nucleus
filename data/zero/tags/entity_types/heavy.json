@@ -1,0 +1,24 @@
+{
+	"values": [
+		"#zero:hostile",
+		"#zero:anti_hostile",
+		"zero:cow",
+		"zero:donkey",
+		"zero:horse",
+		"zero:mooshroom",
+		"zero:mule",
+		"zero:pig",
+		"zero:sheep",
+		"zero:snow_golem",
+		"zero:strider",
+		"zero:turtle",
+		"zero:villager",
+		"zero:wandering_trader",
+		"zero:dolphin",
+		"zero:goat",
+		"zero:llama",
+		"zero:panda",
+		"zero:polar_bear",
+		"zero:trader_llama"
+	]
+} 
